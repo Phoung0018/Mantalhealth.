@@ -1,0 +1,38 @@
+#Start {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 300px;
+}
+ 
+ 
+#Start div{
+	height: 250 px;
+	width: 200 px;
+    margin: 20px;
+}
+ 
+#Picture1 {
+	height: 350px;
+	width: 400px;
+}
+ 
+#oro{
+	position: relative;
+	display: flex;
+}
+ 
+*{
+	font-family:Bahnschrift;
+}
+ 
+*{
+	background-color: aliceblue;
+}
+ 
+ 
+li{
+	list-style: none;
+	margin-right: 25px;
+	display: inline-block;
+}
